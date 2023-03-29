@@ -4,12 +4,19 @@ Project designed to optimize Daily Fantasy Sports NBA Daily Picks.
 
 * Applications Used: 
         1) Python
+      
         2) Jupyter Notebook
+        
         3) Pandas
+        
         4) MatplotLib (Research & Statistical Analysis Only)
+        
         5) HTML Beautiful Soup
+        
         6) HTML Chrome Driver
+        
         7) Microsoft Excel
+        
         8) SQL Alchemy 
 
 ### Datasets:
