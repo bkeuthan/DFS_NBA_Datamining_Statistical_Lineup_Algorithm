@@ -34,6 +34,12 @@ Project designed to optimize Daily Fantasy Sports NBA Daily Picks.
             *Took these extracted tables and merged Basic/Adv statistics together using Pandas.
             *Uploading into a SQL Alchemy Database to store all data.
 
+### Data Storage:
+
+### Data Analysis:
+
+### Lineup Optimizaton (applying algorithm):
+
 ### Data Sourcing:
     * draftkings.com
     * nba.com
