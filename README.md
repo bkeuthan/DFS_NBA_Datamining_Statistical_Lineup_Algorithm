@@ -3,6 +3,7 @@
 Project designed to optimize Daily Fantasy Sports NBA Daily Picks.
 
 * Applications Used: 
+
         1) Python
       
         2) Jupyter Notebook
