@@ -22,7 +22,7 @@ Project designed to optimize Daily Fantasy Sports NBA Daily Picks.
     3. Basketball-Reference.com
             *Beautiful Soup extract into Pandas to compile schedule - exported to Microsoft Excel to clean data and build the logic to loop through all boxscores
             *Imported cleaned schedule back into pandas
-            *Beautiful Soup extract looping through every box score based on the link logic applied - extracting 4 tables - Home Basic, Home Adv, Visior Basic, Visitor                Adv.
+            *Beautiful Soup extract looping through every box score based on the link logic applied - extracting 4 tables - Home Basic, Home Adv, Visior Basic, Visitor Adv.
             *Took these extracted tables and merged Basic/Adv statistics together using Pandas.
             *Uploading into a SQL Alchemy Database to store all data.
 
